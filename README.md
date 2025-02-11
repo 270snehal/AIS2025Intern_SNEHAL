@@ -60,7 +60,7 @@ Visualization : plotting.
 Condition selection : and, or.
 
 
-#Task 6 : 
+# Task 6 : 
 Work on matplotlib and seaborn
 
 Data visualization : scatter Plot, Bar plot, pie chart, Line plot, Histogram, Subplots, Regression Plots, residual Plots in Matplotlib and Seaborn library
